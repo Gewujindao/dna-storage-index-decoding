@@ -1,0 +1,13 @@
+﻿c=1: done (29 s)
+c=1.5: done (59 s)
+c=2: done (92 s)
+c=2.5: done (139 s)
+c=3: done (181 s)
+c=3.5: done (218 s)
+c=4: done (276 s)
+c=4.5: done (64 s)
+c=5: done (117 s)
+c=6: done (170 s)
+c=7: done (227 s)
+c=8: done (60 s)
+done e2e

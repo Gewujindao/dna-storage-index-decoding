@@ -1,0 +1,24 @@
+﻿c=1.0: baseline R*=0.384 (theta 0.5) | design R*=0.428 (theta 0.7)
+c=1.5: baseline R*=0.516 (theta 0.5) | design R*=0.563 (theta 0.8)
+c=2.0: baseline R*=0.611 (theta 0.5) | design R*=0.663 (theta 0.8)
+c=2.5: baseline R*=0.680 (theta 0.5) | design R*=0.735 (theta 0.9)
+c=3.0: baseline R*=0.724 (theta 0.5) | design R*=0.792 (theta 0.9)
+c=3.5: baseline R*=0.756 (theta 0.5) | design R*=0.827 (theta 0.9)
+c=4.0: baseline R*=0.775 (theta 0.5) | design R*=0.855 (theta 0.9)
+c=4.5: baseline R*=0.783 (theta 0.5) | design R*=0.876 (theta 0.95)
+c=5.0: baseline R*=0.787 (theta 0.5) | design R*=0.888 (theta 0.95)
+c=5.5: baseline R*=0.804 (theta 0.7) | design R*=0.896 (theta 0.95)
+c=6.0: baseline R*=0.823 (theta 0.7) | design R*=0.903 (theta 0.98)
+c=6.5: baseline R*=0.840 (theta 0.7) | design R*=0.907 (theta 0.98)
+c=7.0: baseline R*=0.852 (theta 0.7) | design R*=0.911 (theta 0.99)
+c=7.5: baseline R*=0.859 (theta 0.7) | design R*=0.911 (theta 0.99)
+c=8.0: baseline R*=0.867 (theta 0.7) | design R*=0.915 (theta 0.99)
+c=8.5: baseline R*=0.871 (theta 0.7) | design R*=0.915 (theta 0.99)
+c=9.0: baseline R*=0.876 (theta 0.7) | design R*=0.915 (theta 0.99)
+c=9.5: baseline R*=0.880 (theta 0.7) | design R*=0.911 (theta 0.99)
+c=10.0: baseline R*=0.880 (theta 0.7) | design R*=0.911 (theta 0.99)
+outer rate 0.6: baseline c_min=2.0 | design c_min=2.0
+outer rate 0.7: baseline c_min=3.0 | design c_min=2.5
+outer rate 0.8: baseline c_min=5.5 | design c_min=3.5
+outer rate 0.9: baseline c_min=None | design c_min=6.0
+done predict

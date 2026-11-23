@@ -1,0 +1,5 @@
+tx=file-1_acc-true_passQ-true/forward/TX__file=1_accBaCa=true_passQ=true_filter=true_forward_.txt
+rx=file-1_acc-true_passQ-true/forward/RX__file=1_accBaCa=true_passQ=true_filter=true_forward_.txt
+ld=150
+offset=20
+m=30589

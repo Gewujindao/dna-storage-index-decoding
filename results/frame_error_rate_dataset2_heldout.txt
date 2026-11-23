@@ -1,0 +1,12 @@
+﻿baseline: reads=2000 eps=0.4890
+design: reads=2000 eps=0.0790
+coverage 2: baseline R*=0.342 (theta 0.5) | design R*=0.746 (theta 0.95)
+coverage 3: baseline R*=0.464 (theta 0.5) | design R*=0.858 (theta 0.95)
+coverage 4: baseline R*=0.557 (theta 0.5) | design R*=0.917 (theta 0.99)
+coverage 5: baseline R*=0.625 (theta 0.5) | design R*=0.944 (theta 0.99)
+coverage 6: baseline R*=0.674 (theta 0.5) | design R*=0.956 (theta 0.99)
+coverage 8: baseline R*=0.730 (theta 0.5) | design R*=0.978 (theta 0.999)
+outer rate 0.7: baseline c_min=7.0 | design c_min=2.0
+outer rate 0.8: baseline c_min=None | design c_min=3.0
+outer rate 0.9: baseline c_min=None | design c_min=4.0
+done fer

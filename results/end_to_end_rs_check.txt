@@ -1,0 +1,3 @@
+﻿RS check on real B patterns: decoder outcome matches 2e+x<=n-k in 100/100; decoded 0/100
+RS check on real A2 patterns (rate 0.8): decoder outcome matches 2e+x<=n-k in 320/320; decoded 320/320
+done rscheck
